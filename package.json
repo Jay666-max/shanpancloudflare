@@ -3,10 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jay666-max.github.io/shapan",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --base=/shapan/",
+    "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
